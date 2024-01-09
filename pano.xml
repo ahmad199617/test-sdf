@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18105" start="node1" appversion="6.1.14">
+  <panorama id="node1">
+    <input width="2048" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" height="2048" overlap="1" levelbias="0.400">
+      <level width="2048" predecode="0" preload="0" height="2048"/>
+      <level width="1024" predecode="0" preload="0" height="1024"/>
+      <level width="512" predecode="0" preload="0" height="512"/>
+      <level width="256" predecode="1" preload="1" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata comment="" source="" author="CELIKERLER" longitude="32.32933044" description="GARAGE 1-2-3" datetime="" copyright="" latitude="41.62705581" title="HULSERMANNSHOF\ DUISBURG\ GERMANY" heading="0" customnodeid="" info="" tags="ALMANYA GARAJ RENDER" nodeid="node1"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" enabled="1" backgroundcolor="0xffffff" borderalpha="1" background="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" borderradius="1" border="1" height="20" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot target="" pan="-333.11" tilt="-7.21" id="Point01" description="" title="" skinid="ht_node" url="{node2}"/>
+      <hotspot target="" pan="-277.06" tilt="-0.26" id="Point02" description="" title="" skinid="ht_node" url="{node3}"/>
+      <hotspot target="" pan="-5.60001" tilt="13.91" id="Point04" description="" title="" skinid="ht_node" url="{node5}"/>
+    </hotspots>
+    <media>
+      <image width="600" roty="-2.000" clickmode="0" stretch="1.000" rotx="19.000" pan="-4.280" tilt="-50.590" rotz="0.000" id="Element01" fov="68.546" height="133" handcursor="0">
+        <source url="media/celikerler-logo.png"/>
+      </image>
+    </media>
+    <transition enabled="1" type="crossdissolve" zoomafterinfov="90" zoomfov="20" zoomafteroutfov="20" blendcolor="0x000000" zoomoutpause="1" zoomout="0" zoomspeed="2" zoomin="0" softedge="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" lockedkeyboard="0" invertcontrol="1" contextvr="1" simulatemass="1" contextprojections="0" hideabout="0" invertwheel="0" contextfullscreen="1" rubberband="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="2048" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" height="2048" overlap="1" levelbias="0.400">
+      <level width="2048" predecode="0" preload="0" height="2048"/>
+      <level width="1024" predecode="0" preload="0" height="1024"/>
+      <level width="512" predecode="0" preload="0" height="512"/>
+      <level width="256" predecode="1" preload="1" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata comment="" source="" author="" longitude="" description="" datetime="" copyright="" latitude="" title="" heading="0" customnodeid="" info="" tags="ALMANYA GARAJ RENDER" nodeid="node2"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" enabled="1" backgroundcolor="0xffffff" borderalpha="1" background="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" borderradius="1" border="1" height="20" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot target="" pan="-212.35" tilt="-2.94" id="Point01" description="" title="HULSERMANNSHOF\ DUISBURG\ GERMANY" skinid="ht_node" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" zoomafterinfov="90" zoomfov="20" zoomafteroutfov="20" blendcolor="0x000000" zoomoutpause="1" zoomout="0" zoomspeed="2" zoomin="0" softedge="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" lockedkeyboard="0" invertcontrol="1" contextvr="1" simulatemass="1" contextprojections="0" hideabout="0" invertwheel="0" contextfullscreen="1" rubberband="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="2048" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" height="2048" overlap="1" levelbias="0.400">
+      <level width="2048" predecode="0" preload="0" height="2048"/>
+      <level width="1024" predecode="0" preload="0" height="1024"/>
+      <level width="512" predecode="0" preload="0" height="512"/>
+      <level width="256" predecode="1" preload="1" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata comment="" source="" author="" longitude="" description="" datetime="" copyright="" latitude="" title="" heading="0" customnodeid="" info="" tags="ALMANYA GARAJ RENDER" nodeid="node3"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" enabled="1" backgroundcolor="0xffffff" borderalpha="1" background="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" borderradius="1" border="1" height="20" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot target="" pan="-15" tilt="-1.99" id="Point01" description="" title="" skinid="ht_node" url="{node4}"/>
+      <hotspot target="" pan="-300.12" tilt="-0.01" id="Point02" description="" title="HULSERMANNSHOF\ DUISBURG\ GERMANY" skinid="ht_node" url="{node1}"/>
+      <hotspot target="" pan="-219.43" tilt="9.9" id="Point03" description="" title="" skinid="ht_node" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" zoomafterinfov="90" zoomfov="20" zoomafteroutfov="20" blendcolor="0x000000" zoomoutpause="1" zoomout="0" zoomspeed="2" zoomin="0" softedge="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" lockedkeyboard="0" invertcontrol="1" contextvr="1" simulatemass="1" contextprojections="0" hideabout="0" invertwheel="0" contextfullscreen="1" rubberband="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="2048" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" height="2048" overlap="1" levelbias="0.400">
+      <level width="2048" predecode="0" preload="0" height="2048"/>
+      <level width="1024" predecode="0" preload="0" height="1024"/>
+      <level width="512" predecode="0" preload="0" height="512"/>
+      <level width="256" predecode="1" preload="1" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" pan="360" tilt="90" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata comment="" source="" author="" longitude="" description="" datetime="" copyright="" latitude="" title="" heading="0" customnodeid="" info="" tags="ALMANYA GARAJ RENDER" nodeid="node4"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" enabled="1" backgroundcolor="0xffffff" borderalpha="1" background="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" borderradius="1" border="1" height="20" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot target="" pan="-181.19" tilt="-2.82" id="Point01" description="" title="" skinid="ht_node" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" zoomafterinfov="90" zoomfov="20" zoomafteroutfov="20" blendcolor="0x000000" zoomoutpause="1" zoomout="0" zoomspeed="2" zoomin="0" softedge="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" lockedkeyboard="0" invertcontrol="1" contextvr="1" simulatemass="1" contextprojections="0" hideabout="0" invertwheel="0" contextfullscreen="1" rubberband="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input width="3184" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" height="3184" overlap="1" levelbias="0.400">
+      <level width="3184" predecode="0" preload="0" height="3184"/>
+      <level width="1592" predecode="0" preload="0" height="1592"/>
+      <level width="796" predecode="0" preload="0" height="796"/>
+      <level width="398" predecode="1" preload="1" height="398"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="-25" tilt="-10.7128" fovpixel="2"/>
+      <max fovstereographic="270" pan="25" tilt="10.7128" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata comment="" source="" author="" longitude="" description="" datetime="1/8/2024 1:03 PM" copyright="" latitude="" title="" heading="0" customnodeid="" info="" tags="ALMANYA GARAJ RENDER" nodeid="node5"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" enabled="1" backgroundcolor="0xffffff" borderalpha="1" background="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" borderradius="1" border="1" height="20" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot target="" pan="-59.94" tilt="1.69" id="Point01" description="" title="" skinid="ht_node" url="{node4}"/>
+      <hotspot target="" pan="-34.94" tilt="-8.39" id="Point02" description="" title="" skinid="ht_node" url="{node3}"/>
+      <hotspot target="" pan="-2.92" tilt="1.66" id="Point03" description="" title="HULSERMANNSHOF\ DUISBURG\ GERMANY" skinid="ht_node" url="{node1}"/>
+      <hotspot target="" pan="-7.57" tilt="-1.79" id="Point04" description="" title="" skinid="ht_node" url="{node3}"/>
+      <hotspot target="" pan="-9.96" tilt="0.44" id="Point05" description="" title="" skinid="ht_node" url="{node4}"/>
+      <hotspot target="" pan="-0.38" tilt="4.47035e-09" id="Point06" description="" title="" skinid="ht_node" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" zoomafterinfov="90" zoomfov="20" zoomafteroutfov="20" blendcolor="0x000000" zoomoutpause="1" zoomout="0" zoomspeed="2" zoomin="0" softedge="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" lockedkeyboard="0" invertcontrol="1" contextvr="1" simulatemass="1" contextprojections="0" hideabout="0" invertwheel="0" contextfullscreen="1" rubberband="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" source="" author="" longitude="" description="" datetime="" copyright="" latitude="" title="" heading="0" customnodeid="" info="" tags="" nodeid="master"/>
+  </masternode>
+</tour>
